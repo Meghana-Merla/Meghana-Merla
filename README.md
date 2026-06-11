@@ -17,7 +17,7 @@ Building scalable software and solving challenging problems 🚀
 ## 🚀 About Me
 
 - 🎓 B.Tech CSE @ IIT (ISM) Dhanbad
-- 💻 ompetitive Programmer
+- 💻 Competitive Programmer
 - 🏅 400+ Problems on Codeforces
 - 🏅 250+ Problems on LeetCode
 - 🏅 40+ Problems on GeeksforGeeks
