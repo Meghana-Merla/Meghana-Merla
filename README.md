@@ -116,8 +116,8 @@ Pomodoro-based Android productivity application with animated timer and session 
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Meghana-Merla&show_icons=true&theme=github_dark" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meghana-Merla&layout=compact&theme=github_dark" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Meghana-Merla&show_icons=true&theme=github_dark&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meghana-Merla&layout=compact&theme=github_dark&cache_seconds=1800" />
 </p>
 
 <p align="center">
