@@ -18,9 +18,6 @@ Building scalable software and solving challenging problems 🚀
 
 - 🎓 B.Tech CSE @ IIT (ISM) Dhanbad
 - 💻 Competitive Programmer
-- 🏅 400+ Problems on Codeforces
-- 🏅 250+ Problems on LeetCode
-- 🏅 40+ Problems on GeeksforGeeks
 - 🌱 Exploring Backend Engineering, System Design & Scalable Applications
 - ⚡ Building Full Stack and Android Applications
 - 📫 Reach me at **meghana.merla31@gmail.com**
@@ -110,29 +107,6 @@ Kotlin + Firebase powered hackathon management and discovery platform.
 ### ⏳ [FocusFlow](https://github.com/Meghana-Merla/FocusFlow)
 
 Pomodoro-based Android productivity application with animated timer and session tracking.
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Meghana-Merla&show_icons=true&theme=github_dark&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meghana-Merla&layout=compact&theme=github_dark&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Meghana-Merla&theme=github-dark" />
-</p>
-
----
-
-## 🎯 Current Focus
-
-- 🚀 Full Stack Development
-- ⚙️ Backend Engineering
-- 🧩 Data Structures & Algorithms
-- 📱 Android Development
-- 🏗️ Scalable System Design
 
 ---
 
